@@ -1,3 +1,79 @@
 {
-  "src-img":"../../images/illus/welcome.svg"
+  "loopViewport" : [
+    {
+      "texth1" : [
+        {
+          "text-h1" : "text-h1"
+        }
+      ],
+      "txt-section-trial" : "txt-section-trial",
+      "btnSectionTrial" : [
+        {
+          "btnText" : "textBtn"
+        }
+      ],
+      "imgSectionTrial" : [
+        {
+          "src-img":"../../images/illus/welcome.svg"
+        }
+      ]
+    },
+    {
+      "texth2" : [
+        {
+          "text-h2" : "text-h2"
+        }
+      ],
+      "txt-section-trial" : "txt-section-trial",
+      "imgSectionTrial" : [
+        {
+          "src-img":"../../images/illus/for-everybody.svg"
+        }
+      ]
+    },
+    {
+      "texth2" : [
+        {
+          "text-h2" : "text-h2"
+        }
+      ],
+      "txt-section-trial" : "txt-section-trial",
+      "imgSectionTrial" : [
+        {
+          "src-img":"../../images/illus/effective-strong.svg"
+        }
+      ]
+    },
+    {
+      "texth2" : [
+        {
+          "text-h2" : "text-h2"
+        }
+      ],
+      "txt-section-trial" : "txt-section-trial",
+      "imgSectionTrial" : [
+        {
+          "src-img":"../../images/illus/share.svg"
+        }
+      ]
+    },
+    {
+      "texth2" : [
+        {
+          "text-h2" : "text-h2"
+        }
+      ],
+      "txt-section-trial" : "txt-section-trial",
+      "btnSectionTrial" : [
+        {
+          "btnText" : "textBtn"
+        }
+      ],
+      "imgSectionTrial" : [
+        {
+          "src-img":"../../images/illus/for-everybody.svg"
+        }
+      ]
+    }
+  ]
 }

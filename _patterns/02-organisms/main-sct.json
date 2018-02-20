@@ -1,0 +1,23 @@
+{
+  "texth1" : [
+    {
+      "text-h1" : "text-h1"
+    }
+  ],
+  "texth2" : [
+    {
+      "text-h2" : "text-h2"
+    }
+  ],
+  "txt-section-trial" : "txt-section-trial",
+  "btnSectionTrial" : [
+    {
+      "btnText" : "textBtn"
+    }
+  ],
+  "imgSectionTrial" : [
+    {
+      "src-img":"../../images/illus/success.svg"
+    }
+  ]
+}
