@@ -1,6 +1,17 @@
 #text {
   color: #757575;
   border: none;
-  border-bottom: 1px;
+  border-bottom: 1px solid #757575 ;
+  padding-bottom: 9px;
+  width:242px;
+  font-size: 16px;
+  font-family: "Roboto";
+}
 
+#btn-radio {
+    background-color: #fff;
+    border: 1px solid #212121;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
 }
