@@ -1,12 +1,5 @@
-	<div class="main-template">
-		<div class="section-trial">
-
-				{{>organisms-main-sct}}
-
-		</div><!--end .l-main-->
-
-		<div class="section-trial">
-			{{>atoms-img}}
-		</div><!--end .l-sidebar-->
-
-	</div>
+<div class="main-template">
+	{{#loopViewport}}
+		{{>organisms-main-sct}}
+	{{/loopViewport}}
+</div>

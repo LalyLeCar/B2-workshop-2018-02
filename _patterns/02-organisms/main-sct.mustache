@@ -1,8 +1,19 @@
-
-<div class="first-sct">
-  <h1>ECV DEVICE LAB</h1>
-  <p>L'ECV fournit un laboratoire portatif pour les professionels et tous ceux souhaitant une verification de leur site web.</p>
-  {{>atoms-button-cta}}
-  <br>
-
-</div><!-- end l -->
+<div class="section-trial">
+  <div class="section-trial--left">
+    {{#texth1}}
+      <h1>{{text-h1}}</h1>
+    {{/texth1}}
+    {{#texth2}}
+      <h2>{{text-h2}}</h2>
+    {{/texth2}}
+    <p>{{txt-section-trial}}</p>
+    {{#btnSectionTrial}}
+      {{>atoms-button-cta}}
+    {{/btnSectionTrial}}
+  </div><!--end .l-main-->
+  <div class="section-trial--right">
+    {{#imgSectionTrial}}
+      {{>atooms-img}}
+    {{/imgSectinTrial}}
+  </div><!--end .l-sidebar-->
+</div>
