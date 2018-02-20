@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="60px" viewBox="0 0 42 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>01-icons/location/ping-adresse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-icons/location/ping-adresse">
+            <g id="Group-2">
+                <path d="M0,21 C0,36.75 21,60 21,60 C21,60 42,36.75 42,21 C42,9.39 32.61,0 21,0 C9.39,0 0,9.39 0,21 Z" id="Shape" fill="#FFC107"></path>
+                <text id="A" font-family="SourceSansPro-Black, Source Sans Pro" font-size="20" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="15.41" y="28">A</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

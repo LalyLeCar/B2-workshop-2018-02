@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>01-icons/device/tablet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31.7894737,0 L8.21052632,0 C5.88631579,0 4,1.86666667 4,4.16666667 L4,35.8333333 C4,38.1333317 5.88631579,40 8.21052632,40 L31.7894737,40 C34.1136842,40 36,38.1333317 36,35.8333333 L36,4.16666667 C36,1.86666667 34.1136842,0 31.7894737,0 Z M20,38.3333333 C18.6021053,38.3333333 17.4736842,37.2166667 17.4736842,35.8333333 C17.4736842,34.45 18.6021053,33.3333333 20,33.3333333 C21.3978947,33.3333333 22.5263158,34.45 22.5263158,35.8333333 C22.5263158,37.2166667 21.3978947,38.3333333 20,38.3333333 Z M32.6315789,31.6666667 L7.36842105,31.6666667 L7.36842105,5 L32.6315789,5 L32.6315789,31.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-icons/device/tablet">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Page-1" fill-opacity="0.87" fill="#212121" xlink:href="#path-1"></use>
+            <g id="00-color/neutral-color/dark" mask="url(#mask-2)" fill="#212121">
+                <rect id="Background" x="0" y="0" width="40" height="40"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>01-icons/general/person</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,12 C15.315,12 18,9.3075 18,6 C18,2.685 15.315,0 12,0 C8.685,0 6,2.685 6,6 C6,9.3075 8.685,12 12,12 Z M12,15 C8.0025,15 0,17.0025 0,21 L0,24 L24,24 L24,21 C24,17.0025 15.9975,15 12,15 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-icons/general/person">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Page-1" fill-opacity="0.87" fill="#757575" xlink:href="#path-1"></use>
+            <g id="00-color/neutral-color/dark" mask="url(#mask-2)" fill="#212121">
+                <rect id="Background" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
