@@ -12,7 +12,7 @@ label span {
 
 label::before {
   content : " ";
-  background-image: url(../../images/icons/android.svg);
+  background-image: url(../../images/icons/email.svg);
   background-size: cover;
   display : inline-block;
   width : 30px;
@@ -22,4 +22,11 @@ label::before {
 
 .completed label::before {
   background-image: url(../../images/icons/email-full.svg);
+  align-items: center;
+  margin-top: 5px;
+}
+
+.completed2 label::before {
+  background-image: url(../../images/icons/person-full.svg);
+  margin-top: 5px;
 }

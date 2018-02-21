@@ -1,21 +1,22 @@
 <div class="info-rdv2">
-  <p class="txt-calendar">2.Vous pouvez venir dans l'un de nos deux établissements pour utiliser le Device Lab ou les étudiants peuvent venir à vous avec :</p>
+  <p class="txt-calendar">2. Vous pouvez venir dans l'un de nos deux établissements pour utiliser le Device Lab ou les étudiants peuvent venir à vous avec :</p>
 
-
-  <div class="align-info">
-    {{>atoms-selector}}
+  <ul class="list__radio-btn">
+    {{#loopRadio}}
+      {{>atoms-selector}}
+    {{/loopRadio}}
+  </ul>
+  <!-- <div class="align-info">
     <p class="txt-calendar"> Je viens à l'ECV Aquitaine </p>
   </div>
 
 
   <div class="align-info">
-    {{>atoms-selector}}
     <p class="txt-calendar"> Je viens à l'ECV Digital </p>
   </div>
 
   <div class="align-info">
-    {{>atoms-selector}}
     <p class="txt-calendar"> Les étudiants viennent à moi </p>
-  </div>
+  </div> -->
 
 </div>

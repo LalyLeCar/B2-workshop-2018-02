@@ -8,10 +8,68 @@
   font-family: "Roboto";
 }
 
-#btn-radio {
-    background-color: #fff;
-    border: 1px solid #212121;
-    border-radius: 50%;
-    width: 20px;
-    height: 20px;
+.list__radio-btn{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list__radio-btn__element{
+	display:flex;
+	align-items:center;
+	height:24px;
+	margin-bottom:16px;
+}
+
+.input__radio-btn {
+	position: absolute;
+  visibility: hidden;
+}
+
+.label__radio-btn {
+	font-family: SourceSansPro-Regular;
+	font-size: 18px;
+	color: #333;
+	letter-spacing: 0;
+	line-height: 24px;
+	padding-left:32px;
+	position:relative;
+	&:before,
+	&:after{
+		content : '';
+		display:block;
+		position:absolute;
+	}
+	&:before {
+		width:24px;
+		height:24px;
+		border:2px solid #333;
+		border-radius:100%;
+		box-sizing: border-box;
+		top:0;
+		left:0;
+		transition:all .3s ease;
+    background-image: none;
+	}
+	&:after {
+		width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    top: 6px;
+    left: 6px;
+		background-color:#FFC107;
+		transform: scale(0);
+		transition:all .3s ease;
+	}
+}
+
+.input__radio-btn:checked + .label__radio-btn {
+	&:before {
+		border-color:#FFC107;
+		transition:all .3s ease;
+	}
+	&:after {
+		transform: scale(1);
+		transition:all .3s ease;
+	}
 }
