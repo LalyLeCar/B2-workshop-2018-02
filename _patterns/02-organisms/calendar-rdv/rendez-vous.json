@@ -16,5 +16,8 @@
       "radio-input-for" : "3",
       "radio-description" : "radio-description"
     }
-  ]
+  ],
+  "looprdv":[
+  {"btnText":"RESERVE"}
+]
 }
