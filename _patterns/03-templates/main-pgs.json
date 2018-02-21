@@ -75,5 +75,11 @@
         }
       ]
     }
+  ],
+
+  "loopFooter" : [
+    {"btnText":"CONTACTEZ NOUS",
+    "src-icon":"../../images/icons/twitter.svg",
+  }
   ]
 }
