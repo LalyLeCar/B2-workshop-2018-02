@@ -1,0 +1,25 @@
+.info-rdv3{
+  width: 283px;
+}
+
+.txt-calendar{
+  margin:5px;
+}
+
+label span {
+  display: none;
+}
+
+label::before {
+  content : " ";
+  background-image: url(../../images/icons/android.svg);
+  background-size: cover;
+  display : inline-block;
+  width : 30px;
+  height : 30px;
+  color : red;
+}
+
+.completed label::before {
+  background-image: url(../../images/icons/email-full.svg);
+}
