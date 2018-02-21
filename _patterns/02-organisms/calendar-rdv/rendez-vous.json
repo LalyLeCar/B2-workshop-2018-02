@@ -1,0 +1,20 @@
+{
+  "src-icon":"../../images/icons/outline_info.svg",
+  "loopRadio" : [
+    {
+      "radio-input-id" : "1",
+      "radio-input-for" : "1",
+      "radio-description" : "radio-description"
+    },
+    {
+      "radio-input-id" : "2",
+      "radio-input-for" : "2",
+      "radio-description" : "radio-description"
+    },
+    {
+      "radio-input-id" : "3",
+      "radio-input-for" : "3",
+      "radio-description" : "radio-description"
+    }
+  ]
+}
