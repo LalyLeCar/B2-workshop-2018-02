@@ -3,13 +3,13 @@
     {
       "texth1" : [
         {
-          "text-h1" : "text-h1"
+          "text-h1" : "ECV DEVICE LAB"
         }
       ],
-      "txt-section-trial" : "txt-section-trial",
+      "txt-section-trial" : "L'ECV fournit un laboratoire portatif pour les professionnels et tous ceux souhaitant une verification de leurs site Web.",
       "btnSectionTrial" : [
         {
-          "btnText" : "textBtn"
+          "btnText" : "DÉCOUVRIR"
         }
       ],
       "imgSectionTrial" : [
@@ -21,10 +21,10 @@
     {
       "texth2" : [
         {
-          "text-h2" : "text-h2"
+          "text-h2" : "Pour tout le monde !"
         }
       ],
-      "txt-section-trial" : "txt-section-trial",
+      "txt-section-trial" : "Ce device Lab est destiné à chaque personne souhaitant améliorer la compatibilité de son site web sur plusieurs tailles d'écran et plusieurs navigteurs.",
       "imgSectionTrial" : [
         {
           "src-img":"../../images/illus/for-everybody.svg"
@@ -34,10 +34,10 @@
     {
       "texth2" : [
         {
-          "text-h2" : "text-h2"
+          "text-h2" : "Efficace & puissant !"
         }
       ],
-      "txt-section-trial" : "txt-section-trial",
+      "txt-section-trial" : "Avec Browser Sync, vous pouvez régler votre site Web en temps réel sur tous les appareils. Et pouvez avoir des retours d'utilisateurs avec Silverback.",
       "imgSectionTrial" : [
         {
           "src-img":"../../images/illus/effective-strong.svg"
@@ -47,10 +47,10 @@
     {
       "texth2" : [
         {
-          "text-h2" : "text-h2"
+          "text-h2" : "Partage !"
         }
       ],
-      "txt-section-trial" : "txt-section-trial",
+      "txt-section-trial" : "Vous serez assisté par une équipe d'étudiants qui vous aidera dans ce processus de compatibilité grâce à un rapport en direct et papier.",
       "imgSectionTrial" : [
         {
           "src-img":"../../images/illus/share.svg"
@@ -60,13 +60,13 @@
     {
       "texth2" : [
         {
-          "text-h2" : "text-h2"
+          "text-h2" : "Gratuit"
         }
       ],
-      "txt-section-trial" : "txt-section-trial",
+      "txt-section-trial" : "Que vous veniez nous rendre visite ou que nous passios chez vous n'utilisez plus (ou utilisé si vous le soihaitez).",
       "btnSectionTrial" : [
         {
-          "btnText" : "textBtn"
+          "btnText" : "FAIRE UN DON"
         }
       ],
       "imgSectionTrial" : [
