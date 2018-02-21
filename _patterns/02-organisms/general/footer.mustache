@@ -1,26 +1,44 @@
 <footer>
-<div class="footer-container">
-  <h1>Où nous trouver ?</h1>
+  <div class="footer-container">
+    <h1>Où nous trouver ?</h1>
+    <div class="footer-container__maps-address">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2827.8449154356854!2d-0.5633616841723724!3d44.86545188121467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd55288baac26e9d%3A0x73b6d2dc24d81d56!2sECV!5e0!3m2!1sfr!2sfr!4v1519221371346" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <div class="footer-container__maps-address__address">
+        <div class="ecv-location-txt">
+          <h3>ECV AQUITAINE</h3>
+          <p class="txt-footer">22 rue de la porte
+            <br>33000 Bordeaux
+            <br>05.56.56.56.56
+          </p>
+        </div>
+        <div class="ecv-location2-txt ecv-location-txt">
+          <h3>ECV DGITAL</h3>
+          <p class="txt-footer">22 rue de la porte
+            <br>33000 Bordeaux
+            <br>05.56.56.56.56
+          </p>
+        </div>
+      </div>
 
-  <div class="map">
-<img src="../../images/illus/success.svg" class="test725">
+    </div>
+
+    {{>atoms-button-cta}}
+    <hr>
+    <div class="footer-others">
+
+
+      <div class="footer-others-pages">
+        <p>terms and privacy</p>
+        <p>powered by ECV Aquitaine</p>
+      </div>
+
+      <div class="footer-others-networks">
+        {{>atoms-icon}}
+
+      </div>
+
+    </div>
   </div>
-  <div class="ecv-location-txt">
-    <h3>ECV AQUITAINE</h3>
-    <p class="txt-footer">22 rue de la porte
-    <br>33000 Bordeaux
-    <br>05.56.56.56.56
-  </p>
-  </div>
-  <div class="ecv-location2-txt">
-    <h3>ECV DGITAL</h3>
-    <p class="txt-footer">22 rue de la porte
-    <br>33000 Bordeaux
-    <br>05.56.56.56.56
-  </p>
-  </div>
-  {{>atoms-button-cta}}
-  
-</div>
+
 
 </footer>

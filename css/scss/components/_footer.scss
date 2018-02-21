@@ -1,6 +1,8 @@
 .ecv-location-txt {
   position: relative;
   h3 {
+    line-height: 30px;
+    margin-bottom: 0;
     &:before {
       content: 'A';
       font-size: 16px;
@@ -12,37 +14,59 @@
       justify-content: center;
       align-items: center;
       position: absolute;
-
+      left: -40px;
     }
   }
-}
-.ecv-location2-txt {
-  position: relative;
-  h3 {
-    &:before {
-      content: 'B';
-      font-size: 16px;
-      border-radius: 100%;
-      border: 3px solid white;
-      width: 1.5em;
-      height:1.5em;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: absolute;
-
-    }
+  .txt-footer {
+    margin-top: 0;
   }
 }
+.ecv-location2-txt h3:before {
+    content: 'B';
+}
+
+.footer-container__maps-address {
+  display: flex;
+  flex-direction: row;
+  .footer-container__maps-address__address {
+    display: flex;
+    flex-direction: column;
+    margin-left: 64px;
+  }
+}
+
 footer{
 
   h1,h3 {
     color: white;
   }
+
   color:white;
   background-color: #512da8;
+  .btn-cta {
+    display: block;
+    margin: 1.05em auto;
+  }
 }
-.test725 {
+
+#googleMap {
   margin-right: 1.5em;
   float: left;
+}
+.footer-others{
+  display: flex;
+justify-content: space-between;
+}
+.footer-others-pages{
+  display: flex;
+
+
+  p{
+    margin-right: 1.5em;
+  }
+}
+.footer-others-networks{
+
+  display: flex;
+
 }
