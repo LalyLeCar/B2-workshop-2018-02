@@ -11,7 +11,12 @@ h2 {
 	color: $secondary-color;
 	font-family: 'Source sans Pro', black;
 }
-
+h3 {
+	text-align: fixed;
+	font-size:20px;
+	color: $secondary-color;
+	font-family: 'Source sans Pro', black;
+}
 .txt-section {
 	text-align: auto;
 	font-family: 'Source sans Pro', regular;
@@ -24,4 +29,9 @@ h2 {
 	text-align: fixed;
 	font-size:18px;
 	color: rgba(33,33,33,100);
+}
+.txt-footer{
+	font-family: 'Source sans Pro', regular;
+	text-align: fixed;
+	font-size:16px;
 }
