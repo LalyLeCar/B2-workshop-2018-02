@@ -1,6 +1,14 @@
 .header{
   max-width: 1000px;
-  margin: 0 auto;
+
   display: flex;
   align-items: center;
+
+  position: fixed;
+  margin: 0 auto;
+  background-color: white;
+  top:0;
+  width: 100%;
+  left : 50%;
+  transform: translateX(-50%);
 }
